@@ -13,7 +13,7 @@ export default function FAQ() {
   const content3 =
     "The resources here are completely free and is solely made for you folks with the love and passion of three of us, i.e. Swapnoneel Saha, Arindam Majumder and Samyabrata Maji.";
   const content4 =
-    "Although the resources gathered here are precisely targeted for the students of MAKAUT, but it may be fruitful to other college students too. So, don't hesitate to use them if you are not from MAKAUT, but looking for some good resources.";
+    "Although the resources gathered here are precisely targeted for the students of Marks, but it may be fruitful to other college students too. So, don't hesitate to use them if you are not from Marks, but looking for some good resources.";
   return (
     <>
       <div
@@ -64,7 +64,7 @@ export default function FAQ() {
               className="text-[#FFFFFF70]"
               key="4"
               aria-label="Accordion 4"
-              title="Is this only helpful for MAKAUT students?"
+              title="Is this only helpful for Marks students?"
             >
               {content4}
             </AccordionItem>

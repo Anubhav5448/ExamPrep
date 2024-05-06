@@ -19,10 +19,10 @@ const grenze = Grenze_Gotisch({
 });
 
 export const metadata = {
-  title: "Makaut Buddy",
-  description: "MAKAUT Buddy is the one-stop academic solution for every students of the University.",
-  keywords: "MAKAUT, University, Academic, Next.js, Notes, PYQ, Syllabus, Makaut Buddy, Makaut Buddy App, Makaut Buddy Website, Makaut Buddy Web App, Makaut Buddy Web Application, Makaut Buddy Web Platform, Makaut Questions,Makaut PYQ, Makaut website, Makaut Buddy Web Portal, Makaut Website",
-  author: "Arindam Majumder",
+  title: "Marks Buddy",
+  description: "Marks Buddy is the one-stop academic solution for every students of the University.",
+  keywords: " University, Academic, Next.js, Notes, PYQ, Syllabus, Marks Buddy, Marks Buddy App, Marks Buddy Website, Marks Buddy Web App, Marks Buddy Web Application, Marks Buddy Web Platform, Marks Questions,Marks PYQ, Marks website, Marks Buddy Web Portal, Marks Website",
+  author: "Anubhav Yadav",
 };
 
 export default function RootLayout({ children }) {

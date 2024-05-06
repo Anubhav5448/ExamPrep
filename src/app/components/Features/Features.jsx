@@ -60,7 +60,7 @@ const Features = () => {
             className="-z-50 w-[490px] 2xl:ml-[105px]"
             width={500} // might need to change this
             height={500} // might need to change this
-            alt="Makaut Buddy Hero Image"
+            alt="Marks Buddy Hero Image"
           />
         </div>
       </div>

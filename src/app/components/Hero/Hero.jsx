@@ -35,7 +35,7 @@ export default function Hero() {
             resources you want, at your fingertips.
           </motion.h1>
           <h2 className="font-sans text-start 2xl:text-2xl max-2xl:text-lg font-light max-sm:text-sm max-sm:text-center leading-loose  bg-gradient-to-r from-[rgba(225,225,225,0.80)] to-[rgba(225,225,225,0.40)] bg-clip-text text-transparent">
-            MAKAUT Buddy is the one-stop academic solution for every students of
+            Marks Buddy is the one-stop academic solution for every students of
             the University.
           </h2>
           <div className="font-sans sm:space-x-5 mt-4 space-x-2 max-sm:flex max-sm:px-10">

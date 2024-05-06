@@ -195,7 +195,7 @@ const Data = () => {
             key: 1,
             heading: "Mathematics-I 2021",
             description:
-              "Mathematics-I 2021 question paper of MAKAUT in-house batch",
+              "Mathematics-I 2021 question paper of Marks in-house batch",
           },
         ],
         notes: [
